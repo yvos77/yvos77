@@ -26,7 +26,7 @@
 ### 💻 Linguagens e Tecnologias
 
 <p align="left">
-    <img width="25%"
+    <img width="70%"
      src="https://skillicons.dev/icons?i=c,py,java,postgres,php,html,css,js"/>
 </p>
 
