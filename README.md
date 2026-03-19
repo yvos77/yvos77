@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Tecnologias
 
 <p align="left">
     <img width="45%"
