@@ -5,13 +5,6 @@
 ### Sou o Yuri Silva, tenho 20 anos e sou natural do Brasil. Concluí o ensino médio no Colégio Militar de Brasília. Atualmente, estou cursando Ciência da Computação no IESB.<br> Eu sou muito interessado em tecnologia e muito curioso para saber como as coisas funcionam.<br>
 
 <p align="left">
-    <a href="https://github.com/yvos77">
-        <img 
-            alt="Perfil" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/yvos77?color=323841&labelColor=2b313b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/yuri-victor-silva-a87171328/">
         <img 
             alt="Seguidores" 
