@@ -30,30 +30,37 @@ Meu foco é backend: escrever código que resolve problema real, roda em produç
 ### Tecnologias
 
 **Backend**
+
 <p align="left">
-    <img width="15%" src="https://skillicons.dev/icons?i=py,java,c,php"/>
+  <img height="48" src="https://skillicons.dev/icons?i=py,java,c,php" alt="Python, Java, C, PHP">
 </p>
 
 **Frontend**
+
 <p align="left">
-    <img width="15%" src="https://skillicons.dev/icons?i=js,react,html,css"/>
+  <img height="48" src="https://skillicons.dev/icons?i=js,react,html,css" alt="JavaScript, React, HTML, CSS">
 </p>
 
 **Dados e Ferramentas**
+
 <p align="left">
-    <img width="15%" src="https://skillicons.dev/icons?i=postgres,git,linux"/>
+  <img height="48" src="https://skillicons.dev/icons?i=postgres,git,linux" alt="PostgreSQL, Git, Linux">
 </p>
 
---- 
+---
 
 ### Projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **[Cifras CCB](https://github.com/yvos77/cifras_ccb)** | Site mobile-first de letras de hinos com cifras de violão, com transposição de tom e acordes alinhados por sílaba | React, Vite, JavaScript |
+| **[Estante Digital](https://github.com/yvos77/NOME-DO-REPO)** | Aplicação web de estante de livros, migrada de JavaScript puro para React com API REST | React, JavaScript, json-server |
+
+<!--
 | **[NOME-DO-REPO](https://github.com/yvos77/NOME-DO-REPO)** | Visualização em grafo de fluxos de transações PIX para apoio a investigações de fraude | Python, NetworkX |
 | **[NOME-DO-REPO](https://github.com/yvos77/NOME-DO-REPO)** | Implementação de tabela hash em C com tratamento de colisões e análise de complexidade | C |
 | **[NOME-DO-REPO](https://github.com/yvos77/NOME-DO-REPO)** | Aplicativo de gestão financeira pessoal com categorização de gastos | React Native |
+-->
 
 ---
 
