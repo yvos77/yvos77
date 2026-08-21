@@ -64,10 +64,10 @@ Meu foco é backend: escrever código que resolve problema real, roda em produç
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
-<!-- Trocar USUARIO-VERCEL pela sua instância própria do github-readme-stats -->
+Trocar USUARIO-VERCEL pela sua instância própria do github-readme-stats
 <img height="150" src="https://USUARIO-VERCEL.vercel.app/api?username=yvos77&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="Estatísticas do GitHub">
 <img height="150" src="https://USUARIO-VERCEL.vercel.app/api/top-langs/?username=yvos77&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Linguagens mais usadas">
 
-</div>
+</div> -->
