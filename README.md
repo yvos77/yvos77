@@ -19,7 +19,7 @@
 
 Estudante de Ciência da Computação no IESB e estagiário na área de prevenção à fraude do BRB, onde trabalho com análise de transações e automação de processos de investigação.
 
-Meu foco é backend: escrever código que resolve problema real, roda em produção e não precisa de mim para continuar funcionando. O que me puxou para a área foi entender como o dinheiro se move — e como alguém tenta desviá-lo no caminho.
+Meu foco é backend: escrever código que resolve problema real, roda em produção e não precisa de mim para continuar funcionando.
 
 - Automatizei parte da tratativa de casos de fraude com uma extensão de navegador, reduzindo o tempo médio por caso de 20 para 5 minutos
 - Construo ferramentas de apoio à análise: extração de dados, geração automática de documentos e visualização de fluxos de transações
