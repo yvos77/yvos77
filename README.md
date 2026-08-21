@@ -54,7 +54,7 @@ Meu foco é backend: escrever código que resolve problema real, roda em produç
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **[Cifras CCB](https://github.com/yvos77/cifras_ccb)** | Site mobile-first de letras de hinos com cifras de violão, com transposição de tom e acordes alinhados por sílaba | React, Vite, JavaScript |
-| **[Estante Digital](https://github.com/yvos77/NOME-DO-REPO)** | Aplicação web de estante de livros, migrada de JavaScript puro para React com API REST | React, JavaScript, json-server |
+| **[Estante Digital](https://github.com/yvos77/tecweb_yuri/tree/main/praticas/projeto)** | Aplicação web de estante de livros, migrada de JavaScript puro para React com API REST | React, JavaScript, json-server |
 
 <!--
 | **[NOME-DO-REPO](https://github.com/yvos77/NOME-DO-REPO)** | Visualização em grafo de fluxos de transações PIX para apoio a investigações de fraude | Python, NetworkX |
