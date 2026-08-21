@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/yurivsv77">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:yurivsv77@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-333333?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
