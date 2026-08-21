@@ -32,19 +32,19 @@ Meu foco é backend: escrever código que resolve problema real, roda em produç
 **Backend**
 
 <p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=py,java,c,php" alt="Python, Java, C, PHP">
+  <img height="48" src="https://skillicons.dev/icons?i=py,java,c,php" alt="py,java,c,php">
 </p>
 
 **Frontend**
 
 <p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=js,react,html,css" alt="JavaScript, React, HTML, CSS">
+  <img height="48" src="https://skillicons.dev/icons?i=js,react,html,css" alt="js,react,html,css">
 </p>
 
 **Dados e Ferramentas**
 
 <p align="left">
-  <img height="48" src="https://skillicons.dev/icons?i=postgres,git,linux" alt="PostgreSQL, Git, Linux">
+  <img height="48" src="https://skillicons.dev/icons?i=postgres,git,linux" alt="postgres,git,linux">
 </p>
 
 ---
