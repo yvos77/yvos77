@@ -23,7 +23,7 @@ Meu foco é backend: escrever código que resolve problema real, roda em produç
 
 - Automatizei parte da tratativa de casos de fraude com uma extensão de navegador, reduzindo o tempo médio por caso de 20 para 5 minutos
 - Construo ferramentas de apoio à análise: extração de dados, geração automática de documentos e visualização de fluxos de transações
-- Atualmente estudando arquitetura de APIs e boas práticas de banco de dados
+- Atualmente estudando python e boas práticas de banco de dados
 
 ---
 
